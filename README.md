@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* I just wrote a [presentation about offline data sharing](https://github.com/rjmackay/offline-db-preso)
+* I occasionally write about tech and people at [robbiemackay.com](https://robbiemackay.com)
+* Like my work? [Hire me](https://robbiemackay.com/resume/)
+* Pronouns: He / Him
